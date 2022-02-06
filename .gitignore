@@ -1,3 +1,6 @@
+.idea
+.dest
+yarn.lock
 # Logs
 logs
 *.log

@@ -1,0 +1,10 @@
+{
+  "include":[
+    "./src/script/*", "typings.d.ts"
+  ],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "ES2015"
+  }
+}
